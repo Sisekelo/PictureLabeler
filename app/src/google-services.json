@@ -1,0 +1,148 @@
+{
+  "project_info": {
+    "project_number": "321215248265",
+    "firebase_url": "https://tracker-893ef.firebaseio.com",
+    "project_id": "tracker-893ef",
+    "storage_bucket": "tracker-893ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321215248265:android:20694b81bd2599f1",
+        "android_client_info": {
+          "package_name": "com.example.dell.label"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321215248265-g1nlb470s757oouvs0k1veghss6s8i1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvTZVxKd8kft2OrCz3bSELyS1pdl1k62A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321215248265:android:4ff437b75bbc7512",
+        "android_client_info": {
+          "package_name": "com.example.dell.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321215248265-osbmqrhoc6gffebgo6uk0qh3nh8qs7c1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.tracker",
+            "certificate_hash": "8a36a52912d7e638cadaae95ed157bc92c1f9559"
+          }
+        },
+        {
+          "client_id": "321215248265-g1nlb470s757oouvs0k1veghss6s8i1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvTZVxKd8kft2OrCz3bSELyS1pdl1k62A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321215248265-g1nlb470s757oouvs0k1veghss6s8i1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321215248265:android:693c00b96c712e8c",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321215248265-g1nlb470s757oouvs0k1veghss6s8i1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvTZVxKd8kft2OrCz3bSELyS1pdl1k62A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321215248265:android:f49fd4b56a76f89a",
+        "android_client_info": {
+          "package_name": "com.jessicathornsby.mlkitimagelabelling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321215248265-g1nlb470s757oouvs0k1veghss6s8i1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvTZVxKd8kft2OrCz3bSELyS1pdl1k62A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

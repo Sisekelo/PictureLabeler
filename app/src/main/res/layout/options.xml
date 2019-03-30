@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/txt_options"
+                android:text="There should be text here"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/options_recycle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Recycle" />
+
+            <Button
+                android:id="@+id/options_reuse"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Reuse" />
+
+
+            <Button
+                android:id="@+id/options_reduce"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Reduce" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
